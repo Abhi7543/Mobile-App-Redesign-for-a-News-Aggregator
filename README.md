@@ -1,1 +1,1 @@
-# Mobile-App-Redesign-for-a-News-Aggregator
+Interactive Dashboard for Analytics Platform
